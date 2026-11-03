@@ -58,4 +58,13 @@ if input_number % 2 == 0:
 -------------------------------
 questions 
 1. check if a number is perfect square
-2. 
+
+
+day 3 topics 
+result problem 
+restaurent problem
+range function implementation
+functions in python 
+command line args
+list cls
+string class
